@@ -5,7 +5,7 @@
 ---
 
 ### Contact
-<img href="mailto:williamknux.a8h1z@simplelogin.co" width="48px" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/612/aiga_mail_bg-256.png" />
+[Mail](mailto:williamknux.a8h1z@simplelogin.co)
 
 
 ### Languages and Tools
