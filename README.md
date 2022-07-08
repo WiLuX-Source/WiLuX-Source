@@ -5,7 +5,7 @@
 ---
 
 ### Contact
-[Mail](mailto:williamknux.a8h1z@simplelogin.co)
+[Mail](mailto:williamknux.a8h1z@simplelogin.co) [Discord Server](https://discord.gg/BvT98xY2rr)
 
 
 ### Languages and Tools
