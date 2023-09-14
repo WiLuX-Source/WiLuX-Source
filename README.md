@@ -18,5 +18,5 @@ Stats
 ```
 Tools & Languages
 ```
-[![](https://skillicons.dev/icons?i=css,html,ts,c,cs,unity,react,nodejs,py,git,vs)]()
+[![](https://skillicons.dev/icons?i=css,html,ts,c,cs,godot,go,react,solidjs,nodejs,py,git,vs)]()
 </div>
